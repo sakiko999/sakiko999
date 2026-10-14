@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="496px" font-size="15px"
+     font-family="ConsolasFallback,ui-monospace,SFMono-Regular,Consolas,Menlo,monospace">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback';
+  font-display: swap; size-adjust: 109%; }
+text, tspan { white-space: pre; }
+.key  { fill: #0550ae; }
+.value{ fill: #1f2328; }
+.cc   { fill: #a0a8b4; }
+.head { fill: #0969da; font-weight: bold; }
+</style>
+<defs>
+  <linearGradient id="whale" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#4D6BFE"/>
+    <stop offset="100%" stop-color="#1b3fd8"/>
+  </linearGradient>
+</defs>
+<rect width="985" height="496" fill="#ffffff" rx="15"/>
+<text x="18" y="34" fill="url(#whale)">
+<tspan x="18" y="34">                   ..:-=++:      :%*              </tspan>
+<tspan x="18" y="53">       ..-=++****++*%@@@@*:      +@@=..         .:</tspan>
+<tspan x="18" y="72">     .=*%@@@@@@@@@@@@@@@%:      .*@@@%*-.  ...:=%@</tspan>
+<tspan x="18" y="91">   .=%@@@@@@@@@@@@@@@@@@@#=.     +@@@@@@=-*#%%@@@%</tspan>
+<tspan x="18" y="110">  :*@@@@@@@@@@@@@@@@@@@@@@@%=.   :@@@@@@@@@@@@@@@=</tspan>
+<tspan x="18" y="129"> :#@@@@@@@@@@@@@@@@@@@@@@@@@@#-.  -%@@@@@@@@@@@@=.</tspan>
+<tspan x="18" y="148">.#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:  :*@@@@@@@@%*:  </tspan>
+<tspan x="18" y="167">=@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@%+:..#@@@@*=-:.   </tspan>
+<tspan x="18" y="186">%@@+....:-=+#@@@@@@@@@@@@@%#%@@@@@@**@@@@%.       </tspan>
+<tspan x="18" y="205">@@@=        .:=#@@@@@@@@@@+-:-*@@@@@@@@@@*.       </tspan>
+<tspan x="18" y="224">@@@*.          .-*@@@@@@@@*#* .=@@@@@@@@@-        </tspan>
+<tspan x="18" y="243">@@@@:            .-#@@@@@@@@#.  -@@@@@@@#.        </tspan>
+<tspan x="18" y="262">*@@@*.             .+@@@@@@@@*--=%@@@@@@-         </tspan>
+<tspan x="18" y="281">-@@@@=               -%@@@@@@@@@@@@@@@@=          </tspan>
+<tspan x="18" y="300">.*@@@@-               -%@@@@@@@@@@@@@@+.          </tspan>
+<tspan x="18" y="319"> .#@@@@=.      ....    :#@@@@@@@@@@@@+.           </tspan>
+<tspan x="18" y="338">  :#@@@@*:     .*%*=.   .*@@@@@@@@@@=.            </tspan>
+<tspan x="18" y="357">   .*@@@@@*:.   -@@@%+:. .=%@@@@@@@+..            </tspan>
+<tspan x="18" y="376">    .=%@@@@@#+--=%@@@@@*-. :+%@@@@@@%*=:          </tspan>
+<tspan x="18" y="395">      .=#@@@@@@@@@@@@@@@@%*++*##%@@@@@%=          </tspan>
+<tspan x="18" y="414">        .-*%@@@@@@@@@@@@@@@@#=...:::::..          </tspan>
+<tspan x="18" y="433">           .-+*%@@@@@@@%#*=:.                     </tspan>
+</text>
+<text x="486" y="34" fill="#1f2328">
+<tspan x="486" y="34">sakiko@deepseek </tspan><tspan class="head">————————————————————————————————————</tspan>
+<tspan x="486" y="54" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">:  ........................ </tspan><tspan class="value">NixOS (WSL2)</tspan>
+<tspan x="486" y="74" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">:  ...................... </tspan><tspan class="value">DeepSeek Whale</tspan>
+<tspan x="486" y="94" class="cc">. </tspan><tspan class="key">Shell</tspan><tspan class="cc">:  ..................... </tspan><tspan class="value">fish</tspan>
+<tspan x="486" y="114" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">:  ....................... </tspan><tspan class="value">VS Code, Claude Code</tspan>
+<tspan x="486" y="134" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:  .................... </tspan><tspan class="value">since 2025-09</tspan>
+<tspan x="486" y="174" class="cc">. </tspan><tspan class="key">Lang.Prog</tspan><tspan class="cc">:  ................. </tspan><tspan class="value">TS, Go, Python, Dart</tspan>
+<tspan x="486" y="194" class="cc">. </tspan><tspan class="key">Lang.Markup</tspan><tspan class="cc">:  ............... </tspan><tspan class="value">HTML, CSS, GLSL, Nix</tspan>
+<tspan x="486" y="214" class="cc">. </tspan><tspan class="key">Lang.Real</tspan><tspan class="cc">:  ................. </tspan><tspan class="value">Chinese, English</tspan>
+<tspan x="486" y="254" class="cc">. </tspan><tspan class="key">Hobbies.Soft</tspan><tspan class="cc">:  .............. </tspan><tspan class="value">Reverse engineering</tspan>
+<tspan x="486" y="274" class="cc">. </tspan><tspan class="key">Hobbies.Hard</tspan><tspan class="cc">:  .............. </tspan><tspan class="value">Overclocking, WSL</tspan>
+<tspan x="486" y="314" class="head">CONTACT —————————————————————————————————————————————</tspan>
+<tspan x="486" y="340" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:  .................... </tspan><tspan class="value">github.com/sakiko999</tspan>
+<tspan x="486" y="380" class="head">GITHUB STATS ————————————————————————————————————————</tspan>
+<tspan x="486" y="406" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc">:  ..................... </tspan><tspan class="value">11</tspan>
+<tspan x="486" y="426" class="cc">. </tspan><tspan class="key">Stars</tspan><tspan class="cc">:  ..................... </tspan><tspan class="value">0</tspan>
+<tspan x="486" y="446" class="cc">. </tspan><tspan class="key">Followers</tspan><tspan class="cc">:  ................. </tspan><tspan class="value">0</tspan>
+</text>
+</svg>
